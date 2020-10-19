@@ -1,3 +1,5 @@
+title: "International workshop on Agile and Functional Data Pipelines"
+---
 # International workshop on Agile and Functional Data Pipelines
 
 This workshop will be held as a part of [EDI40 '2021]().
