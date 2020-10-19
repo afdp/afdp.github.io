@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+name: Jekyll • Simple, blog-aware, static sites
+description: Transform your plain text into static websites and blogs
+exclude:
+  - ".gitignore"
+  - ".jekyll-cache"
