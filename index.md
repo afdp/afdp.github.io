@@ -1,4 +1,6 @@
 ---
+name: AFDP 2020
+page: AFDP 2020
 title: "International workshop on Agile and Functional Data Pipelines"
 description: "International workshop on Agile and Functional Data Pipelines"
 keywords: "data pipelines, haskell, scala, kafka, agile"
