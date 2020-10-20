@@ -10,17 +10,20 @@ This workshop will be held as a part of [The 4th International Conference on Eme
 
 # Important dates
 
+Abstract registration deadline
+  : December 15th, 2020
+
 Submission deadline
-  : January 1st 2021
+  : December 22nd, 2020
 
 Acceptance notification
-  : January 15th 2021
+  : January 12th 2021
 
 Final manuscripts
   : January 23rd, 2021
 
 Presentation at the conference
-  : March 23rd-26thm 2021
+  : March 23rd-26th 2021
 
 # Call for papers
 
