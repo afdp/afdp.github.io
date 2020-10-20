@@ -12,12 +12,16 @@ This workshop will be held as a part of [The 4th International Conference on Eme
 
 Submission deadline
   : November 20th, 2021
+
 Reviews
   : December 21st, 2021
+
 Notification
   : December 28th, 2021
+
 Final manuscripts
   : January 20th, 2021
+
 Presentation on the conference
   : March 2021
 
