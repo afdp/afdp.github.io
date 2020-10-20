@@ -1,4 +1,5 @@
-name: AFDP
+title: "AFDP '2020"
+name:  "AFDP '2020"
 description: "International Workshop on Agile and Functional Data Pipelines"
 exclude:
   - ".gitignore"
