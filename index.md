@@ -48,7 +48,7 @@ The submitted paper must be formatted according to the guidelines of Procedia Co
 
 The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
 
-_Submission link pending._
+Please submit your paper or extended abstract by [EasyChair](https://easychair.org/my/conference?conf=afdp2021#)
 
 # Registration
 
