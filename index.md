@@ -46,7 +46,7 @@ In particular we encourage:
 
 # Submission instructions
 
-Original, unpublished papers are solicited for presentation at the DDSW workshop. Prospective authors are invited to submit papers (electronically, PDF only) that are no longer than 6 pages for full papers, including all figures and references. For work-in-progress, we also solicit extended abstracts for presentations.
+Original, unpublished papers are solicited for presentation at the AFDP workshop. Prospective authors are invited to submit papers (electronically, PDF only) that are no longer than 6 pages for full papers, including all figures and references. For work-in-progress, we also solicit extended abstracts for presentations.
 The submitted paper must be formatted according to the guidelines of Procedia Computer Science, MS Word Template, Latex, Template Generic, Elsevier.
 
 The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
