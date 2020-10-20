@@ -41,6 +41,10 @@ In particular we encourage:
 * Descriptions of environments for interactive and live programming with data
 * Benchmarks of state-of-the-art solutions for agile functional data pipelines.
 
+# Submission instructions
+
+TBA
+
 # Programme committee
 
 * [Justin Bedő](https://cua0.org), University of Melbourne
