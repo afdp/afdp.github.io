@@ -1,6 +1,6 @@
 ---
-name: AFDP 2020
-page: AFDP 2020
+name: AFDP 2021
+page: AFDP 2021
 title: "International workshop on Agile and Functional Data Pipelines"
 description: "International workshop on Agile and Functional Data Pipelines"
 keywords: "data pipelines, haskell, scala, kafka, agile"
@@ -11,20 +11,16 @@ This workshop will be held as a part of [The 4th International Conference on Eme
 # Important dates
 
 Submission deadline
-  : November 2021
+  : January 1st 2021
 
-Reviews
-  : December 2021
-
-Notification
-  : December 2021
+Acceptance notification
+  : January 15th 2021
 
 Final manuscripts
-  : January 20th, 2021
+  : January 23rd, 2021
 
-Presentation on the conference
-  : March 2021
-
+Presentation at the conference
+  : March 23rd-26thm 2021
 
 # Call for papers
 
@@ -47,7 +43,16 @@ In particular we encourage:
 
 # Submission instructions
 
-TBA
+Original, unpublished papers are solicited for presentation at the DDSW workshop. Prospective authors are invited to submit papers (electronically, PDF only) that are no longer than 6 pages for full papers, including all figures and references. For work-in-progress, we also solicit extended abstracts for presentations.
+The submitted paper must be formatted according to the guidelines of Procedia Computer Science, MS Word Template, Latex, Template Generic, Elsevier.
+
+The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
+
+_Submission link pending._
+
+# Registration
+
+Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-21/).
 
 # Programme committee
 
