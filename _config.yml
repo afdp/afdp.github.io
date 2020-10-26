@@ -7,3 +7,5 @@ exclude:
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
+image:
+  path: /assets/favicon.png
