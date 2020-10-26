@@ -5,8 +5,15 @@ title: "International workshop on Agile and Functional Data Pipelines"
 description: "International workshop on Agile and Functional Data Pipelines"
 keywords: "data pipelines, haskell, scala, kafka, agile"
 ---
-
-<link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="/assets/favicons/site.webmanifest">
+<link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 
 This workshop will be held as a part of [The 4th International Conference on Emerging Data and Industry 4.0 (EDI40)](http://cs-conferences.acadiau.ca/EDI40-21/) held on March 23 - 26, 2021 in Warsaw, Poland.
 
