@@ -13,7 +13,6 @@ keywords: "data pipelines, haskell, scala, kafka, agile"
 <link rel="shortcut icon" href="/assets/favicons/favicon.ico">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="msapplication-config" content="/assets/favicons/browserconfig.xml">
-<meta name="theme-color" content="#ffffff">
 
 This workshop will be held as a part of [The 4th International Conference on Emerging Data and Industry 4.0 (EDI40)](http://cs-conferences.acadiau.ca/EDI40-21/) held on March 23 - 26, 2021 in Warsaw, Poland.
 
