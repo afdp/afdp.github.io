@@ -6,6 +6,8 @@ description: "International workshop on Agile and Functional Data Pipelines"
 keywords: "data pipelines, haskell, scala, kafka, agile"
 ---
 
+<link rel="shortcut icon" type="image/png" href="/assets/favicon.png">
+
 This workshop will be held as a part of [The 4th International Conference on Emerging Data and Industry 4.0 (EDI40)](http://cs-conferences.acadiau.ca/EDI40-21/) held on March 23 - 26, 2021 in Warsaw, Poland.
 
 # Important dates
