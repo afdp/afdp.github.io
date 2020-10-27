@@ -35,7 +35,7 @@ Presentation at the conference
 
 # Call for papers
 
-Emerging interest in rigorous and agile development of data science, and functional ETL pipelines has driven the developments of many new libraries, frameworks and methodologies.
+The emerging interest in the rigorous and agile data science and functional ETL pipelines has driven the developments of many new libraries, frameworks and methodologies.
 We invite industry practitioners and academics to present their latest work on agile functional data pipelines as a workshop at the EDI’2021 conference.
 
 The following would be accepted:
@@ -45,10 +45,10 @@ The following would be accepted:
 * Benchmarks and optimization of agile data pipeline frameworks
 * Solutions to data integration and exchange problems within ETL pipelines.
 
-In particular we encourage:
+In particular, we encourage:
 * Agile functional data methodologists
-* Authors of ETL frameworks, streaming libraries and databases, reactive streaming, streaming benchmarks, high performance workflow engines
-* Position papers on use of agile and functional data methodologies
+* Authors of ETL frameworks, streaming libraries and databases, reactive streaming, streaming benchmarks, high-performance workflow engines
+* Position papers on the use of agile and functional data methodologies
 * Descriptions of environments for interactive and live programming with data
 * Benchmarks of state-of-the-art solutions for agile functional data pipelines.
 
