@@ -60,17 +60,21 @@ The submitted paper must be formatted according to the guidelines of Procedia Co
 The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
 
 Please submit your paper or extended abstract by [EasyChair](https://easychair.org/my/conference?conf=afdp2021#)
-
+You may [contact chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
 # Registration
 
 Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-21/).
 
 # Programme committee
 
+* [Manuel Bärenz](https://manuelbaerenz.de), sonnen eServices GmbH
 * [Justin Bedő](https://cua0.org), University of Melbourne
-* [Michał J. Gajda](https://migamake.com), Migamake Pte Ltd (chair)
+* [Aggelos Biboudis](http://biboudis.github.io/), École Polytechnique Fédérale de Lausanne
+* [Michał J. Gajda](https://migamake.com), Migamake Pte Ltd _(chair)_
+* [Dorran Howell](https://www.linkedin.com/in/dorranhowell), Tweag
 * [Mike Izbicki](https://izbicki.me/), Claremont McKenna College
 * [Harendra Kumar](https://twitter.com/hk_hooda), ComposeWell
+* [Matthias Meschede](https://www.linkedin.com/in/mmesch), Tweag
 * [Michael Snoyman](https://www.snoyman.com), FP Complete
 
 # Presentation schedule
