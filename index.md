@@ -35,15 +35,15 @@ Presentation at the conference
 
 # Call for papers
 
-Emerging interest in rigorous and agile development of agile data science, and functional ETL pipelines has driven developments of many new libraries, frameworks and methodologies.
-We invite industry practicioners and academics to expose their latest work on agile functional data pipelines as a workshop on EDI’2021 conference.
+Emerging interest in rigorous and agile development of data science, and functional ETL pipelines has driven the developments of many new libraries, frameworks and methodologies.
+We invite industry practitioners and academics to present their latest work on agile functional data pipelines as a workshop at the EDI’2021 conference.
 
 The following would be accepted:
 * Exposures of methodologies for building agile functional data pipelines
-* Presentation of frameworks used for data pipelines in industry and academia
-* Experience reports from applications of data pipelines building in industry and academia
+* Presentations of frameworks used for data pipelines in industry and academia
+* Experience reports from building of data pipelines in industry and academia
 * Benchmarks and optimization of agile data pipeline frameworks
-* Solution to data integration and exchange problems within ETL pipelines.
+* Solutions to data integration and exchange problems within ETL pipelines.
 
 In particular we encourage:
 * Agile functional data methodologists
@@ -55,12 +55,13 @@ In particular we encourage:
 # Submission instructions
 
 Original, unpublished papers are solicited for presentation at the AFDP workshop. Prospective authors are invited to submit papers (electronically, PDF only) that are no longer than 6 pages for full papers, including all figures and references. For work-in-progress, we also solicit extended abstracts for presentations.
+
 The submitted paper must be formatted according to the guidelines of Procedia Computer Science, MS Word Template, Latex, Template Generic, Elsevier.
 
 The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
 
 Please submit your paper or extended abstract by [EasyChair](https://easychair.org/my/conference?conf=afdp2021#)
-You may [contact chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
+You may [contact committee chair](https://www.linkedin.com/in/mjgajda/) with any questions you have about submission.
 # Registration
 
 Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-21/).
@@ -71,10 +72,10 @@ Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-2
 * [Justin Bedő](https://cua0.org), University of Melbourne
 * [Aggelos Biboudis](http://biboudis.github.io/), École Polytechnique Fédérale de Lausanne
 * [Michał J. Gajda](https://migamake.com), Migamake Pte Ltd _(chair)_
-* [Dorran Howell](https://www.linkedin.com/in/dorranhowell), Tweag
+* [Dorran Howell](https://github.com/dorranh), Tweag
 * [Mike Izbicki](https://izbicki.me/), Claremont McKenna College
 * [Harendra Kumar](https://twitter.com/hk_hooda), ComposeWell
-* [Matthias Meschede](https://www.linkedin.com/in/mmesch), Tweag
+* [Matthias](https://github.com/MMesch) [Meschede](https://twitter.com/Mattwittus), Tweag
 * [Michael Snoyman](https://www.snoyman.com), FP Complete
 
 # Presentation schedule
