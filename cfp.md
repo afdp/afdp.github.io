@@ -10,31 +10,38 @@ This workshop will be held as a part of [The 4th International Conference on Eme
 
 # Call for papers
 
-Emerging interest in rigorous and agile development of agile data science, and functional ETL pipelines has driven developments of many new libraries, frameworks and methodologies.
+Emerging interest in rigorous and agile development of agile data science, and functional ETL (Extract-Transform-Load) pipelines has driven developments of many new libraries, frameworks and methodologies.
 We invite industry practicioners and academics to expose their latest work on agile functional data pipelines as a workshop on EDI’2021 conference.
 
-The following would be accepted:
+The following formats would be accepted:
 
 * Exposures of methodologies for building agile functional data pipelines
 * Presentation of frameworks used for data pipelines in industry and academia
 * Experience reports from applications of data pipelines building in industry and academia
 * Benchmarks and optimization of agile data pipeline frameworks
-* Solution to data integration and exchange problems within ETL pipelines.
+* Solutions to data integration and exchange problems within ETL pipelines
+
+Relevant topics include, but are not limited to:
+
+* ETL pipelines
+* Database ETL frameworks
+* Reactive streaming
+* High performance workflow engines
 
 In particular we encourage:
 
-* Agile functional data methodologists
-* Authors of ETL frameworks, streaming libraries and databases, reactive streaming, streaming benchmarks, high performance workflow engines
 * Position papers on use of agile and functional data methodologies
 * Descriptions of environments for interactive and live programming with data
-* Benchmarks of state-of-the-art solutions for agile functional data pipelines.
+* Benchmarks of state-of-the-art solutions for agile functional data pipelines
+
+We welcome contributions by users, researchers, and authors of frameworks and libraries regarding the relevant topics,
+and practitioners of different fields who can shed new light on existing problems.
 
 # Submission instructions
 
 Original, unpublished papers are solicited for presentation at the AFDP workshop. Prospective authors are invited to submit papers (electronically, PDF only) that are no longer than 6 pages for full papers, including all figures and references. For work-in-progress, we also solicit extended abstracts for presentations.
-The submitted paper must be formatted according to the guidelines of Procedia Computer Science, MS Word Template, Latex, Template Generic, Elsevier.
 
-The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf), Elsevier.
+The submitted paper must be formatted according to [the guidelines of Procedia Computer Science](http://www.elsevier.com/journals/procedia-computer-science/1877-0509/guide-for-authors/). Templates for [LaTeX](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.zip) [MS Word](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40_PROCS_Template.doc) or [generic](http://cs-conferences.acadiau.ca/EDI40-20/templates/EDI40-Template-Generic.pdf) are available.
 
 Please submit your paper or extended abstract by [EasyChair](https://easychair.org/my/conference?conf=afdp2021#)
 
