@@ -70,6 +70,8 @@ Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-2
 
 * [Manuel Bärenz](https://manuelbaerenz.de), ManuelBaerenz.de
 * [Justin Bedő](https://cua0.org), University of Melbourne
+* [Sylwia Brodacka](https://enso.org), Enso
+* [Wojciech Daniło](https://enso.org), Enso
 * [Michał J. Gajda](https://migamake.com), Migamake Pte Ltd _(chair)_
 * [Dorran Howell](https://github.com/dorranh), Tweag
 * [Mike Izbicki](https://izbicki.me/), Claremont McKenna College
