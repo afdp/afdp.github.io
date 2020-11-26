@@ -72,11 +72,11 @@ Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-2
 * [Justin Bedő](https://cua0.org), University of Melbourne
 * [Sylwia Brodacka](https://enso.org), Enso
 * [Michał J. Gajda](https://migamake.com), Migamake Pte Ltd _(chair)_
-* [Dorran Howell](https://github.com/dorranh), Tweag
+* [Dorran Howell](https://github.com/dorranh), Tweag I/O
 * [Mike Izbicki](https://izbicki.me/), Claremont McKenna College
 * [Harendra Kumar](https://twitter.com/hk_hooda), ComposeWell
-* [Matthias](https://github.com/MMesch) [Meschede](https://twitter.com/Mattwittus), Tweag
-* [Yves](https://www.linkedin.com/in/yves-par%C3%A8s-88315549/) [Parès](https://github.com/YPares), Tweag
+* [Matthias](https://github.com/MMesch) [Meschede](https://twitter.com/Mattwittus), Tweag I/O
+* [Yves](https://www.linkedin.com/in/yves-par%C3%A8s-88315549/) [Parès](https://github.com/YPares), Tweag I/O
 * [Michael Snoyman](https://www.snoyman.com), FP Complete
 
 # Presentation schedule
