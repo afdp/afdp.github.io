@@ -76,6 +76,7 @@ Please register at [EDI40 2021 website](http://cs-conferences.acadiau.ca/EDI40-2
 * [Mike Izbicki](https://izbicki.me/), Claremont McKenna College
 * [Harendra Kumar](https://twitter.com/hk_hooda), ComposeWell
 * [Matthias](https://github.com/MMesch) [Meschede](https://twitter.com/Mattwittus), Tweag
+* [Yves Parès](https://www.linkedin.com/in/yves-par%C3%A8s-88315549/), Tweag
 * [Michael Snoyman](https://www.snoyman.com), FP Complete
 
 # Presentation schedule
