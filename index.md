@@ -19,10 +19,10 @@ This workshop will be held as a part of [The 4th International Conference on Eme
 # Important dates
 
 Abstract registration deadline
-  : December 30th, 2020 (extended ~~December 15th~~)
+  : December 27th, 2020 (extended ~~December 15th~~)
 
 Submission deadline
-  : January 3rd, 2020 (extended ~~December 23rd~~)
+  : January 30th, 2020 (extended ~~December 22rd~~)
 
 Acceptance notification
   : January 12th 2021
