@@ -22,7 +22,7 @@ Abstract registration deadline
   : December 27th, 2020 (extended ~~December 15th~~)
 
 Submission deadline
-  : January 30th, 2020 (extended ~~December 22rd~~)
+  : January 3rd, 2020 (extended ~~December 22rd~~)
 
 Acceptance notification
   : January 12th 2021
